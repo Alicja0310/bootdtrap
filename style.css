@@ -1,0 +1,6 @@
+.main-btn-primary {
+    background-color: plum;
+}
+.main-btn-primary:hover {
+    background-color: purple;
+}
